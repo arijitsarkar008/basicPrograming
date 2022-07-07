@@ -1,7 +1,6 @@
 package src.main.java;
 /**
  * 
- * @author Arijit Sarkar
  *
  *
  *Time complexity = n logn
